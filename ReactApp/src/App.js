@@ -5,6 +5,7 @@ import './App.css';
 // lazy load child apps
 const VeuApp = lazy(() => import("./components/VueAppImports"));
 const version=React.version;
+console.log("React App");
 export default () => {
    return (
         <div className="App">
