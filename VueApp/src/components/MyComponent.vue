@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Welcome to my microfrontend!</h1>
+    <h1>Welcome to my Vue Microfrontend!</h1>
+    <img class="logo" src="./vuenew.png" height="150">
   </div>
 </template>
 
